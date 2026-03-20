@@ -1,0 +1,26 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Evolucion Poblacional por Grupos de Edad en America Latina (2000-2023): Dataset Demografico por Pais",
+  "identifier": "10.5281/zenodo.18907193",
+  "url": "https://doi.org/10.5281/zenodo.18907193",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Mois\u00e9s",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "demografia",
+    "America Latina",
+    "estructura de edad",
+    "envejecimiento poblacional",
+    "CEPAL",
+    "open data",
+    "dataset",
+    "poblacion"
+  ]
+}
