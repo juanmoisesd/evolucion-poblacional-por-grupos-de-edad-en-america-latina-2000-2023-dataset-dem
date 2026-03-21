@@ -1,0 +1,11 @@
+america-latina, cc0, cepal, dataset, demografia, envejecimiento-poblacional, estructura-de-edad, open-data, poblacion, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
