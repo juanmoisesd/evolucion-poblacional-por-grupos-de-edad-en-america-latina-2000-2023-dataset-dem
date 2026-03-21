@@ -1,26 +1,49 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Evolucion Poblacional por Grupos de Edad en America Latina (2000-2023): Dataset Demografico por Pais",
-  "identifier": "10.5281/zenodo.18907193",
-  "url": "https://doi.org/10.5281/zenodo.18907193",
+  "@type": "SoftwareSourceCode",
+  "name": "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America Latina en 4 cortes temporales (2000, 2010, 2020, 2023). 14 variables. Fuente: CEPALSTAT (CEPAL / ECLAC, Naciones Unidas).",
+  "description": "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America Latina en 4 cortes temporales (2000, 2010, 2020, 2023). 14 variables. Fuente: CEPALSTAT (CEPAL / ECLAC, Naciones Unidas).",
+  "url": "https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem",
+  "codeRepository": "https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "demografia",
-    "America Latina",
-    "estructura de edad",
-    "envejecimiento poblacional",
-    "CEPAL",
-    "open data",
+    "america-latina",
+    "cc0",
+    "cepal",
     "dataset",
-    "poblacion"
-  ]
+    "demografia",
+    "envejecimiento-poblacional",
+    "estructura-de-edad",
+    "open-data",
+    "poblacion",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
