@@ -1,13 +1,2 @@
-from setuptools import setup, find_packages
-setup(
-    name="evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem",
-    version="1.0.0",
-    description="Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America La",
-    author="de la Serna, Juan Moisés",
-    url="https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem",
-    packages=find_packages(),
-    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
-    python_requires=">=3.7",
-    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
-    keywords="age-structure, america-latina, cc0, cepal, citation, dataset, demografia, demography, envejecimiento-poblacional, estructura-de-edad, fair-data, juan-moises-de-la-serna, latin-america, open-data, open-science, orcid, poblacion, population-data, research, zenodo, zenodo, open-data",
-)
+from setuptools import setup,find_packages
+setup(name="evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem",version="1.0.0",description="Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America La",author="de la Serna, Juan Moisés",url="https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem",packages=find_packages(),install_requires=["pandas>=1.3.0","requests>=2.26.0"],python_requires=">=3.7",classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],keywords="age-structure, america-latina, cc0, cepal, citation, dataset, demografia, demography, envejecimiento-poblacional, estructura-de-edad, fair-data, juan-moises-de-la-serna, latin-america, open-data, open-science, orcid, poblacion, population-data, research, zenodo, zenodo, open-data, dataset")
