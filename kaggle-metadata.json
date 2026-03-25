@@ -1,0 +1,23 @@
+{
+  "title": "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 ",
+  "id": "juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-americ",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "age-structure",
+    "america-latina",
+    "cc0",
+    "cepal",
+    "citation",
+    "dataset",
+    "demografia",
+    "demography",
+    "envejecimiento-poblacional",
+    "estructura-de-edad"
+  ],
+  "description": "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America Latina en 4 cortes temporales (2000, 2010, 2020, 2023). 14 variables. Fuente: CEPALSTAT (CEPAL / ECLAC, Naciones Unidas).\n\nDOI: https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem\nGitHub: https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
