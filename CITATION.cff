@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America Latina en 4 cortes temporales (2000, 2010, 2020, 2023). 14 variables. Fuente: CEPALSTAT (CEPAL / ECLAC, Naciones Unidas)."
+abstract: "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America Latina en 4 cortes temporales (2000, 2010, 2020, 2023). 14 variables. Fuente: CEPALSTAT (CEPAL / ECLAC, Naciones Unidas)."
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem"
 url: "https://juanmoisesd.github.io/evolucion-poblacional-por-grupos-de-edad-en-america-latina-2000-2023-dataset-dem/"
-abstract: "Dataset demografico longitudinal con estructura de edad de la poblacion para 11 paises de America Latina en 4 cortes temporales (2000, 2010, 2020, 2023). 14 variables. Fuente: CEPALSTAT (CEPAL / ECLAC, Naciones Unidas)."
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
